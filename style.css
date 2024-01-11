@@ -77,6 +77,7 @@
     background-color: var(--btn1-col);
     border-radius: 10px;
     border: none;
+    transition: all;
 }
 .rec-box:hover{
     background-color: var(--input);
@@ -88,6 +89,7 @@
     background-color: var(--btn3-col);
     color: var(--text-color);
     border: none;
+    transition: all;
 }
 .cir-box:hover{
     background-color: var(--btn2-col);
@@ -99,6 +101,7 @@
 }
 .cir-box-blue{
     background-color: var(--btn2-col);
+    transition: all;
 }
 .cir-box-blue:hover{
     background-color: var(--btn3-col);
