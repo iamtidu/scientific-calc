@@ -24,7 +24,7 @@
 	background-color:var(--bg);
 	width: 100%;
 	max-width: 412px;
-	min-height: 700px;
+	min-height: 640px;
 	border-radius: 1.5rem;
 	overflow: hidden;
 }
@@ -108,15 +108,12 @@
 	#main {
 		width: 100%;
 		max-width: 100vw;
-		min-height: 95vh;
+		min-height: 100vh;
 		border-radius: 0rem;
 	}
-    body{
-        background-color: var(--bg);
-    }
     #input-box{
-        /* margin-top: 15%; */
-        height: 150px;
+        margin-top: 15%;
+        height: 184px;
     }
     .rrow{
         margin-top: 19px;
@@ -130,12 +127,9 @@
 	#main {
 		width: 100%;
 		max-width: 100dvw;
-		min-height: 95dvh;
+		min-height: 100dvh;
 		border-radius: 0rem;
 	}
-    body{
-        background-color: var(--bg);
-    }
     #input-box{
         margin-top: 15%;
         height: 120px;
