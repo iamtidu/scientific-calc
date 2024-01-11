@@ -127,9 +127,12 @@
 	#main {
 		width: 100%;
 		max-width: 100dvw;
-		min-height: 100dvh;
+		min-height: 95dvh;
 		border-radius: 0rem;
 	}
+    body{
+        background-color: var(--bg);
+    }
     #input-box{
         margin-top: 15%;
         height: 120px;
