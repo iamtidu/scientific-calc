@@ -28,9 +28,9 @@
 	border-radius: 1.5rem;
 	overflow: hidden;
 }
-#about{
+/* #about{
     min-height: 60px;
-}
+} */
 #input-box {
 	min-height: 9.375rem;
 	padding: .5rem;
@@ -113,7 +113,7 @@
 	}
     #input-box{
         /* margin-top: 15%; */
-        height: 184px;
+        height: 150px;
     }
     .rrow{
         margin-top: 19px;
